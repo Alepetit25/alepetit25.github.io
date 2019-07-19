@@ -1,0 +1,56 @@
+body, html {
+	background-color: #010101;
+	background-image: url("black-and-white-close-up-dark-821735.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%
+	margin:0;
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+header{
+	background-position: center;
+}
+
+h1{
+	font-family: macho, 'Indie Flower', cursive;
+	color: #a1c2e3;
+	font-variant-position: center;
+	margin: 20px 5px -50px 0;
+}
+
+
+.btn-primary{
+	margin: 70px;
+	padding:10px;
+	position: center;
+	background-color:#007BFF;
+}
+
+.btn-primary:hover{
+ background-color: #007BFF;
+ cursor: pointer;
+}
+
+.opportunity{
+	margin: 450px 0 0 0;
+}
+
+.btn-outline-primary {
+	text:#007BFF;
+}
+
+.navbar-brand{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 3em;
+	
+}
+
+
